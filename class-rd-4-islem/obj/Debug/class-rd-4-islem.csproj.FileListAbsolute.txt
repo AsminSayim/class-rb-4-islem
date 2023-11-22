@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\Asminsayim-409-ntp\class-rd-4-islem\class-rd-4-islem\bin\Debug\class-rd-4-islem.exe.config
+C:\Users\User\Desktop\KORUMASIZ\Asminsayim-409-ntp\class-rd-4-islem\class-rd-4-islem\bin\Debug\class-rd-4-islem.exe
+C:\Users\User\Desktop\KORUMASIZ\Asminsayim-409-ntp\class-rd-4-islem\class-rd-4-islem\bin\Debug\class-rd-4-islem.pdb
+C:\Users\User\Desktop\KORUMASIZ\Asminsayim-409-ntp\class-rd-4-islem\class-rd-4-islem\obj\Debug\class-rd-4-islem.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\Asminsayim-409-ntp\class-rd-4-islem\class-rd-4-islem\obj\Debug\class-rd-4-islem.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\Asminsayim-409-ntp\class-rd-4-islem\class-rd-4-islem\obj\Debug\class_rd_4_islem.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\Asminsayim-409-ntp\class-rd-4-islem\class-rd-4-islem\obj\Debug\class_rd_4_islem.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\Asminsayim-409-ntp\class-rd-4-islem\class-rd-4-islem\obj\Debug\class-rd-4-islem.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\Asminsayim-409-ntp\class-rd-4-islem\class-rd-4-islem\obj\Debug\class-rd-4-islem.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\Asminsayim-409-ntp\class-rd-4-islem\class-rd-4-islem\obj\Debug\class-rd-4-islem.exe
+C:\Users\User\Desktop\KORUMASIZ\Asminsayim-409-ntp\class-rd-4-islem\class-rd-4-islem\obj\Debug\class-rd-4-islem.pdb
